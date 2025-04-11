@@ -14,8 +14,6 @@
 - Aucune donnée n’est stockée ou envoyée en clair
 - Interface terminal stylisée (ASCII + couleurs)
 
-Parfait ! Voici une page `README.md` prête à mettre sur ton GitHub pour ton projet **PwnGuard**.
-
 ---
 
 ### 📄 `README.md`
@@ -63,10 +61,10 @@ Entrez votre mot de passe :
 - Connexion Internet (pour appeler l'API)
 
 ---
+```
 
 ## 👤 Auteur
 
 Développé par Zankyz
 
 Si tu aimes, n'hésite pas à ⭐️ le projet !
-```
